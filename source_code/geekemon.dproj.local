@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/24 13:24:57.000.363,\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\gd780855\M1102-ALGO_PROG\GEEKEMON\geekemonv2.dproj=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\gd780855\RAD Studio\Projets\Project1.dproj</Transaction>
+    <Transaction>2016/11/24 13:26:02.000.458,=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\gd780855\M1102-ALGO_PROG\GEEKEMON\Unit1.pas</Transaction>
+    <Transaction>2016/11/24 13:27:05.000.582,\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\gd780855\M1102-ALGO_PROG\GEEKEMON\BDDv2.pas=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\gd780855\M1102-ALGO_PROG\GEEKEMON\Unit1.pas</Transaction>
+    <Transaction>2016/11/24 13:32:26.000.954,=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\gd780855\M1102-ALGO_PROG\GEEKEMON\Unit1.pas</Transaction>
+    <Transaction>2016/11/24 13:32:36.000.616,\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\gd780855\M1102-ALGO_PROG\GEEKEMON\combatsv2.pas=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\gd780855\M1102-ALGO_PROG\GEEKEMON\Unit1.pas</Transaction>
+    <Transaction>2016/11/24 14:11:01.000.934,\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\gd780855\M1102-ALGO_PROG\GEEKEMON\geekemonv2.dproj=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\gd780855\M1102-ALGO_PROG\GEEKEMON\Geekemon\geekemon.dproj</Transaction>
+    <Transaction>2016/11/24 14:11:44.000.373,\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\gd780855\M1102-ALGO_PROG\GEEKEMON\Geekemon\BDD.pas=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\gd780855\M1102-ALGO_PROG\GEEKEMON\BDDv2.pas</Transaction>
+    <Transaction>2016/11/24 14:11:50.000.920,\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\gd780855\M1102-ALGO_PROG\GEEKEMON\Geekemon\combats.pas=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\gd780855\M1102-ALGO_PROG\GEEKEMON\combatsv2.pas</Transaction>
+    <Transaction>2016/11/27 22:39:36.000.459,=C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\GestionEcran.pas</Transaction>
+    <Transaction>2016/11/28 02:36:56.000.764,=C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Unit1.pas</Transaction>
+    <Transaction>2016/11/28 02:37:18.000.708,C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Menus.pas=C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Unit1.pas</Transaction>
+    <Transaction>2016/11/28 12:04:08.000.657,=C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Unit1.pas</Transaction>
+    <Transaction>2016/11/28 12:07:04.000.809,C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Unit1.pas=C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Evenements.pas</Transaction>
+    <Transaction>2016/11/28 21:20:59.000.407,C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\combat.pas=</Transaction>
+    <Transaction>2016/11/28 21:22:07.000.889,=C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Combat.pas</Transaction>
+    <Transaction>2016/11/28 21:22:27.000.246,=C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Unit1.pas</Transaction>
+    <Transaction>2016/11/28 21:25:15.000.868,C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Unit1.pas=C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Dresseurs.pas</Transaction>
+    <Transaction>2016/11/29 08:41:50.000.937,=C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Unit1.pas</Transaction>
+    <Transaction>2016/11/29 08:42:27.000.573,C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Actions.pas=C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Unit1.pas</Transaction>
+    <Transaction>2016/11/30 17:21:38.000.096,=C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Unit1.pas</Transaction>
+    <Transaction>2016/11/30 17:22:03.000.596,C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Unit1.pas=C:\Users\Geoffrey\Desktop\Geekemon\Programme\Geekemon\Salles.pas</Transaction>
+    <Transaction>2016/12/11 17:13:42.000.657,=C:\Users\Geoffrey\Desktop\GEEKEMON_avancé\Geekemon\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="BDD.pas"/>
+    <File Path="Menus.pas"/>
+    <File Path="GestionEcran.pas"/>
+    <File Path="Evenements.pas"/>
+    <File Path="Combat.pas"/>
+    <File Path="Dresseurs.pas"/>
+    <File Path="Actions.pas"/>
+    <File Path="Salles.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
